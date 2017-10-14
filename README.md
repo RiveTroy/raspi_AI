@@ -1,1 +1,1 @@
-# raspi_AI
+# In this repo, there is a link to our own slack team..
